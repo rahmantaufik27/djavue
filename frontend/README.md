@@ -1,6 +1,6 @@
-# frontend
+# frontendmodel
 
-> djavue
+> A Vue.js project
 
 ## Build Setup
 

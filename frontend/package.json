@@ -1,8 +1,8 @@
 {
   "name": "frontend",
-  "description": "djavue",
+  "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "rahman.taufik <rahman.taufik@loratechai.com>",
+  "author": "rahmantaufik27 <rahmantaufik27@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -30,6 +30,7 @@
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
+    "webpack-bundle-tracker": "^1.0.0-alpha.1",
     "webpack-dev-server": "^2.9.1"
   }
 }
